@@ -1,0 +1,32 @@
+h1 {
+color: yellow;
+
+}
+
+.Media{
+border:solid;
+
+display:flex;
+justify-content: space-evenly
+}
+.Cicada{
+    background-color: tomato;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.Camel{
+background-color: violet;
+display:flex;
+flex-wrap: wrap;
+justify-content: space-around;
+
+}
+
+.Panda {
+background-color: blue;
+display:flex;
+flex-wrap: wrap;
+justify-content: space-between;
+}
